@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on NanyangYe&#39;s homepage</title>
+    <link>https://jjtigris.github.io/nanyangye.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on NanyangYe&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jjtigris.github.io/nanyangye.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fictitious play for mean field games: Continuous time analysis and applications</title>
+      <link>https://jjtigris.github.io/nanyangye.github.io/publication/perrin-2020-fictitious/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.github.io/publication/perrin-2020-fictitious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Policy Optimization for Linear-Quadratic Zero-Sum Mean-Field Type Games</title>
+      <link>https://jjtigris.github.io/nanyangye.github.io/publication/carmona-2020-policy/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.github.io/publication/carmona-2020-policy/</guid>
+      <description></description>
+    </item>
+
+
+  </channel>
+</rss>
