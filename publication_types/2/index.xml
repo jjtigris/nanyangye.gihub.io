@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on NanyangYe&#39;s homepage</title>
+    <link>https://jjtigris.github.io/nanyangye.gihub.io/publication_types/2/</link>
+    <description>Recent content in 2 on NanyangYe&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jjtigris.github.io/nanyangye.gihub.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Convergence Analysis of Machine Learning Algorithms for the Numerical Solution of Mean Field Control and Games: II - The Finite Horizon Case</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/publication/carmona-lauriere-dl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/publication/carmona-lauriere-dl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linear-Quadratic Zero-Sum Mean-Field Type Games: Optimality Conditions and Policy Optimization</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/publication/carmona-2020-linear/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/publication/carmona-2020-linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean Field Games Flock! The Reinforcement Learning Way</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/publication/perrin-2021-mean/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/publication/perrin-2021-mean/</guid>
+      <description></description>
+    </item>
+    
+
+  </channel>
+</rss>
