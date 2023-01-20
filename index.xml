@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NanyangYe&#39;s homepage on NanyangYe&#39;s homepage</title>
+    <link>https://jjtigris.github.io/nanyangye.gihub.io/</link>
+    <description>Recent content in NanyangYe&#39;s homepage on NanyangYe&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/home_original/about_original/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/home_original/about_original/</guid>
+      <description>&lt;p&gt;I am bla bla bla tbd&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Generalization in Mean Field Games by Learning Master Policies</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/perrin-2021-generalization-mfg/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/perrin-2021-generalization-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of a Markovian neural network versus dynamic programming on a fishing control problem</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/lauriere-2021-performance/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/lauriere-2021-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concave Utility Reinforcement Learning: the Mean-field Game viewpoint</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/geist-2021-concave/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/geist-2021-concave/</guid>
+      <description></description>
+    </item>
+
+  </channel>
+</rss>
