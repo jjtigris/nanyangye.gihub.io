@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workingpapers on NanyangYe&#39;s homepage</title>
+    <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/</link>
+    <description>Recent content in Workingpapers on NanyangYe&#39;s homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Generalization in Mean Field Games by Learning Master Policies</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/perrin-2021-generalization-mfg/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/perrin-2021-generalization-mfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance of a Markovian neural network versus dynamic programming on a fishing control problem</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/lauriere-2021-performance/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/lauriere-2021-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concave Utility Reinforcement Learning: the Mean-field Game viewpoint</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/geist-2021-concave/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/geist-2021-concave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning for Mean Field Games and Mean Field Control with Applications to Finance</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/carmona-2021-deep/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/carmona-2021-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepSets and their derivative networks for solving symmetric PDEs</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/germain-2021-deepsets/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/germain-2021-deepsets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite State Graphon Games with Applications to Epidemics</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/aurell-2021-finite/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/aurell-2021-finite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mean Field Models to Regulate Carbon Emissions in Electricity Production</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/carmona-2021-mf-gcarbon/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/carmona-2021-mf-gcarbon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Methods for Mean Field Games and Mean Field Type Control</title>
+      <link>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/lauriere-2021-numerical/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jjtigris.github.io/nanyangye.gihub.io/workingpaper/lauriere-2021-numerical/</guid>
+      <description></description>
+    </item>
+    
+
+    
+  </channel>
+</rss>
